@@ -2,10 +2,12 @@
   text-align: center;
   padding: 30px;
   font-family: Arial, sans-serif;
+  color: black;
 }
 
 .heading {
   margin-bottom: 20px;
+  color: white;
 }
 
 .button {

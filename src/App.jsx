@@ -1,13 +1,10 @@
-import AddMovies from "./Components/AddMovies"
-import MoviesList from "./Components/MoviesList"
+import Movies from "./Components/Movies"
 
 function App() {
-  
   return (
-    <>
-    {/* <AddMovies/> */}
-    <MoviesList/>
-    </>
+  
+   <Movies />
+  
   )
 }
 
