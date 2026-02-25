@@ -1,0 +1,26 @@
+.container {
+  text-align: center;
+  padding: 30px;
+  font-family: Arial, sans-serif;
+}
+
+.heading {
+  margin-bottom: 20px;
+}
+
+.button {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  margin-bottom: 20px;
+}
+
+.loading {
+  color: blue;
+  font-weight: bold;
+}
+
+.error {
+  color: red;
+  font-weight: bold;
+}

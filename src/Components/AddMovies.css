@@ -1,0 +1,36 @@
+.form-container {
+  width: 70%;
+  margin: 20px auto;
+  background: #f4f4f4;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+.control {
+  margin-bottom: 15px;
+  text-align: left;
+}
+
+.control label {
+  display: block;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.control input,
+.control textarea {
+  width: 100%;
+  padding: 8px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+}
+
+.button {
+  padding: 10px 20px;
+  background: rgb(71, 63, 222);
+  color: white;
+  border: none;
+  border-radius: 20px;
+  cursor: pointer;
+}
